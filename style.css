@@ -94,7 +94,7 @@ row-gap: 100px;
 max-width: 1000px;
 grid-template-columns: repeat(2,390px);
 grid-template-rows: repeat(3,2fr);
-column-gap: 2px;
+column-gap: 20px;
     }
     .box{
       max-width:300px ;

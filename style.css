@@ -92,9 +92,9 @@ row-gap: 100px;
       background-color:aqua;
       height: 1300px;
 max-width: 1000px;
-grid-template-columns: repeat(2,425px);
+grid-template-columns: repeat(2,435px);
 grid-template-rows: repeat(3,2fr);
-column-gap: 25px;
+column-gap: 35px;
     }
     .box{
       max-width:400px ;
